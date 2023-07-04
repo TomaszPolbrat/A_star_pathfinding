@@ -7,3 +7,5 @@ What program do:
 - finds shortest road between start adn destination cities
 
 - Evething is easily scalable ( grid size, number of roads and cities).
+
+Visualisation of a program: https://youtu.be/on19_gvnMQs
